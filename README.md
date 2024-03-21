@@ -1,7 +1,7 @@
-# robotont-frontiers-2024-replication-package
+# Frontiers in Robotics and AI 2024 – Replication package
 (DOI here once available)
 
-This repository contains the replication package of the paper submitted to Frontiers with the title **Robotont 3 -- an accessible 3D-printable ROS-supported open-source mobile robot for education and research**.
+This repository contains the replication package of the paper submitted to Frontiers in Robotics and AI with the title **Robotont 3 – an accessible 3D-printable ROS-supported open-source mobile robot for education and research**.
 
 The repository contains a coherent snapshot of Robotont's development to ensure a workable set of mechanics, electronics, and software to replicate the state presented in the paper. However, we encourage everyone to access the latest state of development in each linked repository.
 
