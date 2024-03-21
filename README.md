@@ -35,3 +35,8 @@ This replication package is structured as follows:
   robotont_3_assembly_instructions.pdf       Assembly instructions for ROBOTONT 3
   robotont_3_bom.pdf                         Bill of materials for ROBOTONT 3
 ```
+
+
+## Robotont 3
+
+[![Robotont 3](https://img.youtube.com/vi/sH2FnLFTruA/0.jpg)](https://www.youtube.com/watch?v=sH2FnLFTruA)
