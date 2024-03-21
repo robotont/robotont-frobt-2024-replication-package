@@ -27,13 +27,12 @@ If the content in this repository is helping your research, please cite us as fo
 This replication package is structured as follows:
 
 ```
-  electronics/                               Production files for ROBOTONT 3 printed circuit board
-  firmware/                                  Firmware for ROBOTONT 3 microcontrollers
-    robotont-firmware/
-    robotont-firmware-power-management/
-  mechanics/                                 Design files for manufacturing ROBOTONT 3
-  robotont_3_assembly_instructions.pdf       Assembly instructions for ROBOTONT 3
-  robotont_3_bom.pdf                         Bill of materials for ROBOTONT 3
+  robotont-electronics/                     Production files for ROBOTONT 3 printed circuit board
+  robotont-firmware/                        Firmware for ROBOTONT 3 main microcontroller
+  robotont-firmware-power-management/       Firmware for ROBOTONT 3 power management microcontroller
+  robotont-mechanics/                       Design files for manufacturing ROBOTONT 3
+  robotont_3_assembly_instructions.pdf      Assembly instructions for ROBOTONT 3
+  robotont_3_bom.pdf                        Bill of materials for ROBOTONT 3
 ```
 
 
