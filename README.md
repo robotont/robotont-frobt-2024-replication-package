@@ -39,6 +39,7 @@ This replication package is structured as follows:
 
 ## Robotont 3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sH2FnLFTruA?si=R4lzof3ADqIuBmfA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sH2FnLFTruA?si=R4lzof3ADqIuBmfA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 [![Robotont 3](https://img.youtube.com/vi/sH2FnLFTruA/0.jpg)](https://www.youtube.com/watch?v=sH2FnLFTruA)
