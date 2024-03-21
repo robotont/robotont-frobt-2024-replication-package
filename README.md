@@ -39,6 +39,6 @@ This replication package is structured as follows:
 
 ## Robotont 3
 
-Clicking on the below image will open a YouTube video of an active Robotont robot.
+Clicking on the below image will open a YouTube video of an active Robotont 3 robot.
 
 [![Robotont 3](https://img.youtube.com/vi/sH2FnLFTruA/0.jpg)](https://www.youtube.com/watch?v=sH2FnLFTruA)
