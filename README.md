@@ -1,5 +1,5 @@
 # Frontiers in Robotics and AI 2024 – Replication package
-(DOI here once available)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10854364.svg)](https://doi.org/10.5281/zenodo.10854364)
 
 This repository contains the replication package of the paper submitted to Frontiers in Robotics and AI with the title **Robotont 3 – an accessible 3D-printable ROS-supported open-source mobile robot for education and research**.
 
