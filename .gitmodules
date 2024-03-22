@@ -1,0 +1,14 @@
+[submodule "robotont-mechanics"]
+	path = robotont-mechanics
+	url = https://github.com/robotont/robotont-mechanics
+	branch = gen3.0-devel
+[submodule "robotont-firmware-power-management"]
+	path = robotont-firmware-power-management
+	url = https://github.com/robotont/robotont-firmware-power-management
+[submodule "robotont-firmware"]
+	path = robotont-firmware
+	url = https://github.com/robotont/robotont-firmware
+	branch = v3.0-devel
+[submodule "robotont-electronics-mainboard"]
+	path = robotont-electronics-mainboard
+	url = https://github.com/robotont/robotont-electronics-mainboard
